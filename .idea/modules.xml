@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../rachid/.idea/codeigniter4.iml" filepath="$PROJECT_DIR$/../rachid/.idea/codeigniter4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Methode/jofar-securities/.idea/jofar-securities.iml" filepath="$PROJECT_DIR$/../Methode/jofar-securities/.idea/jofar-securities.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oia.iml" filepath="$PROJECT_DIR$/.idea/oia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Methode/recactivity/.idea/recactivity.iml" filepath="$PROJECT_DIR$/../Methode/recactivity/.idea/recactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../restaurantmis/.idea/restaurantmis.iml" filepath="$PROJECT_DIR$/../restaurantmis/.idea/restaurantmis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Methode/statementsmgt/.idea/statementsmgt.iml" filepath="$PROJECT_DIR$/../Methode/statementsmgt/.idea/statementsmgt.iml" />
+    </modules>
+  </component>
+</project>
